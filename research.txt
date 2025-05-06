@@ -1,0 +1,4 @@
+1, Floating point number (IEEE 754)
+Vì máy tính sử dụng hệ nhị phân -> biểu thị số nguyên một cách dễ dàng
+Cần có một 
+Nhưng đối với số thực, vô tỉ ->  
